@@ -1,2 +1,2 @@
-#Sait web făcut de mine. <br>
+#Sait web făcut de Gatman Vitalie. <br>
 #Eu nu dețin imaginea de fundal.
